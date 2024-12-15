@@ -7,6 +7,7 @@ echo "Hello World"
 
 # VARIABLES ----
 # There's no data types!
+# Everything is basically text
 # Just use the = sign
 
 name="kkck"
@@ -107,3 +108,12 @@ echo "${text:20}"
 # and... nothing happens
 
 # CONDITIONAL EXPRESSIONS
+# In Bash (exclusively Bash) conditional expressions
+# are used by the [[ compound command
+# You can use "[" but is less modern
+
+# Here's a list of the most popular Bash conditional expressions
+
+# -- file expressions
+
+
